@@ -29,4 +29,4 @@ To analyze the Titanic dataset and uncover patterns related to survival using da
 
 ## 👨‍💻 Author
 Vaibhav Shukla  
-BCA Student | Data Science Enthusiast
+BCA Student | Data Analyst
